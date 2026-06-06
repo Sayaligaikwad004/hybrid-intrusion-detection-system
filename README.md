@@ -22,7 +22,8 @@ The results demonstrate that carefully designed autoencoder architectures can si
 | Classes            | Benign (0), Malicious (1)                  |
 | Focus Area         | DDoS Attack Detection                      |
 
-The dataset was selected because it contains realistic network traffic and modern cyberattack scenarios, making it suitable for evaluating intrusion detection systems.
+The dataset was selected because it contains realistic network traffic and modern cyberattack scenarios, making it suitable for evaluating intrusion detection systems. 📥 The CSE-CIC-IDS2018 dataset used in this project is publicly available and can be downloaded from Kaggle.
+
 
 ---
 
